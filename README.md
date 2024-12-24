@@ -215,7 +215,7 @@ A curated list of resources that provide a thorough grounding in Artificial Inte
 
 ## Contributing
 
-Have a book you’d recommend adding to this list? Feel free to open an issue or submit a pull request. We’re always open to improvements and new suggestions.
+Have a book you’d recommend adding to this list? Feel free to open an issue or submit a pull request. I am always open to improvements and new suggestions.
 
 ---
 
