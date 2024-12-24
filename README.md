@@ -199,7 +199,7 @@ A curated list of resources that provide a thorough grounding in Artificial Inte
    <small>Simeon Kostadinov</small>  
    - Hands-on approach to building RNNs, focusing on NLP tasks like language modeling and text generation.
 
-3. **Neural Network Projects with Python**  
+3. **Neural network projects with Python: the ultimate guide to using Python to explore the true power of neural networks through six projects**  
    <small>James Loy</small>  
    - Practical examples of building neural network solutions in Python, including NLP projects.
 
